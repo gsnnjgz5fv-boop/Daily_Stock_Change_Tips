@@ -1,0 +1,5 @@
+akshare
+schedule
+pandas
+tabulate
+requests
